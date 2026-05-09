@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150265637933",
+    "project_id": "dyptalsandequestionpaper",
+    "storage_bucket": "dyptalsandequestionpaper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150265637933:android:ba2a35478aeb8014efdca4",
+        "android_client_info": {
+          "package_name": "com.bhushansalunkhe.dypquestionpapers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByGrcHWzNOMijVJWYyQyLl13kENXscWvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
