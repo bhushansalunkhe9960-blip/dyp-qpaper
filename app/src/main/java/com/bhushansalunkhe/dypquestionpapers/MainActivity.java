@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                     return;
                 }
 
+                // Launch homescreen
                 launchHomeScreen();
 
             }
